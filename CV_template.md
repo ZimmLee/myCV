@@ -1,16 +1,17 @@
 # **CURRICULUM VITAE**
 ## **LEE ZIMMERMAN**
 ### **BIOLOGY, M.S.**
-[Website](LINK) | [Email](LINK)
-- AFFILIATIONS
+[Website](https://sites.temple.edu/zimmermangrad/posts/) | [Email](tug95322@temple.edu)
+- Integrative Ecology Lab
+- Department of Biology 
 
 
 ## Education
-**Temple University | DEGREE**
+**Temple University | MS Biology**
 
-*DATES*
-- IMPORTANT INFORMATION
-- thesis title
+*Fall 2023 - Present*
+- Graduate Advisor: Matthew Helmus, PhD
+- Thesis: 
 - clubs
 - awards
 
