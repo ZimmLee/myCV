@@ -1,6 +1,6 @@
 # **CURRICULUM VITAE**
-## **YOUR NAME**
-### **DEGREE**
+## **LEE ZIMMERMAN**
+### **BIOLOGY, M.S.**
 [Website](LINK) | [Email](LINK)
 - AFFILIATIONS
 
